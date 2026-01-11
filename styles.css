@@ -10,6 +10,18 @@ html {
 }
 /* ##################### */
 
+:root {
+  /* colors */
+  --slate-900: #1f314f;
+  --slate-500: #68778d;
+  --slate-300: #d5e1ef;
+
+  /* spacing */
+  --space-500: 40px;
+  --space-300: 24px;
+  --space-200: 16px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
