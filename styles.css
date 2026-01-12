@@ -43,6 +43,8 @@ body {
   background-color: #fff;
   border-radius: 20px;
   box-shadow: 0 0 7px #eeeeee76;
+  transition: box-shadow 0.2s ease-in-out;
+
   img {
     border-radius: 10px;
   }
@@ -72,6 +74,10 @@ body {
       color: var(--slate-500);
     }
   }
+}
+
+.card:hover {
+  box-shadow: 0 0 7px gray;
 }
 
 .attribution {
