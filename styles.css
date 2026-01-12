@@ -80,6 +80,11 @@ main {
   box-shadow: 0 0 7px gray;
 }
 
+footer {
+  position: absolute;
+  top: calc(100vh - 35px);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
