@@ -57,7 +57,7 @@ main {
   .text-content {
     max-width: 288px;
     margin-top: var(--space-200);
-
+    padding-inline: var(--space-200);
     .bold {
       font-weight: 700;
       font-size: 22px;
